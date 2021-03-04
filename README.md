@@ -1,4 +1,4 @@
-# SaveTheColony
+# Save The Colony
 Tower Defense game
 
 This is an educational project created to learn tower defense game development.
@@ -8,3 +8,7 @@ Platform: Android
 Programming Languages: Python
 Frameworks: Kivy
 Libraries: PyGame
+
+Documentation:
+  [Game Design Document] (https://github.com/NowiseYuki/SaveTheColony/blob/main/Game%20Design%20Document.docx)
+  [UI Layout] (https://github.com/NowiseYuki/SaveTheColony/blob/main/UI.pptx)
