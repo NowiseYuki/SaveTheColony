@@ -2,7 +2,7 @@
 ## Tower Defense game
 ____
 This is an educational project created to learn tower defense game development.  
-If it will go well, I get a bit too serious.  
+If it goes well, I will become more serious.  
 ____
 Platform: `Android`  
 Programming Languages: `Python`  
