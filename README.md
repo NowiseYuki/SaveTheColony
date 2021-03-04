@@ -10,5 +10,5 @@ Frameworks: Kivy
 Libraries: PyGame
 
 Documentation:
-  [Game Design Document] (https://github.com/NowiseYuki/SaveTheColony/blob/main/Game%20Design%20Document.docx)
-  [UI Layout] (https://github.com/NowiseYuki/SaveTheColony/blob/main/UI.pptx)
+  - [Game Design Document](https://github.com/NowiseYuki/SaveTheColony/blob/main/Game%20Design%20Document.docx)
+  - [UI Layout](https://github.com/NowiseYuki/SaveTheColony/blob/main/UI.pptx)
